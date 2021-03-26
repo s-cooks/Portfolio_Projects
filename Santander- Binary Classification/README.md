@@ -4,7 +4,7 @@ by Sheena Cook
 
 ### Executive Summary
 
-Data Science is solving a number of problems in the Finance Sector. Some of those problems include but are not limited to managing customer data, predictive analytics, fraud detection, and consumer analytics. Customer Analytics is related to customer acquisition, customer profitability, and segmentation. Machine Learning models can be deployed to gain insights around Customer Analytics. Currently Santander Bank has hosted a Kaggle competition tasking Data Scientists to build a model that can identify a customer who will make a specific transaction in the future. I will use several binary classification models to determine whether I can predict whether a customer will make a prediction or not. AUC will be the key metric to determine how well the model can classify if a customer will make a transaction or not. 
+Data Science is solving a number of problems in the Finance Sector. Some of those problems include but are not limited to managing customer data, predictive analytics, fraud detection, and consumer analytics. Customer Analytics is related to customer acquisition, customer profitability, and segmentation. Machine Learning models can be deployed to gain insights around Customer Analytics. Currently Santander Bank has hosted a Kaggle competition tasking Data Scientists to build a model that can identify a customer who will make a specific transaction in the future. I will use several binary classification models to determine whether I can predict a customer will make a prediction or not. AUC will be the key metric to determine how well the model can classify if a customer will make a transaction or not. 
 
 ---
 
