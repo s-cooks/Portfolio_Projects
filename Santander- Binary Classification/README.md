@@ -47,9 +47,9 @@ EDA consisted of checking the data types of the features, checking null values, 
 #### Supervised Models: Predicting a Customer Transaction w/ SMOTE 
 
 |Model|Train Score|Test Score|AUC Score|
-| --- | --- | --- |
+| --- | --- | --- || --- || --- || --- |
 |Logistic Regression| .799 | .790 | .86 |
-|Random Forest| .1 | .893 |.70 |
+|Random Forest| .1 | .893 |.70 || --- 
 |Naive Bayes| .864 | .870 |.60 | 
 
 
